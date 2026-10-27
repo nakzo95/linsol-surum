@@ -1,12 +1,12 @@
 {
  "d": {
-  "v": "0.9.151",
-  "url": "https://github.com/nakzo95/linsol-surum/releases/download/v0.9.151/LinSol-Kurulum-0.9.151.exe",
-  "sha256": "ef3de437f48ff59d71ccd9b22dcbee4d61ba867bb50a2b305fed1efa3c116114",
-  "size": 259639160,
-  "notes": "",
+  "v": "0.9.153",
+  "url": "https://github.com/nakzo95/linsol-surum/releases/download/v0.9.153/LinSol-Kurulum-0.9.153.exe",
+  "sha256": "f7748daef3d25a932f6a20de55947c0cf3d779be0b33f82cb6ba4bb106d8199e",
+  "size": 259641733,
+  "notes": "Otomatik lisans kilitleme, güncelleme sistemi",
   "zorunlu": false,
-  "t": 1793119504669
+  "t": 1793122504057
  },
- "s": "AQNc9Uo8BznbdnDbu7uE4Sm_YoQbqq6wbTk7hAbPjOmtFH3tFfKQfDSaMaPeBA16HjAxJHOiKYLbYg8zZe3VBg"
+ "s": "Dwuf7mI_6H0jNJ6H_OYu2bNXJpf4awm0ymMnXnBrHFRV9sYDgmXfR7JmJ4O1XC42CT_8iIrkMxYrIwQZz_2wAg"
 }
