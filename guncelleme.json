@@ -1,12 +1,12 @@
 {
  "d": {
-  "v": "0.9.158",
-  "url": "https://github.com/nakzo95/linsol-surum/releases/download/v0.9.158/LinSol-Kurulum-0.9.158.exe",
-  "sha256": "3e8999b818ad00ee7050c388c5f6ca0d1f6f6e3a4d3a475a7d2d37d038c06760",
-  "size": 256331975,
+  "v": "0.9.160",
+  "url": "https://github.com/nakzo95/linsol-surum/releases/download/v0.9.160/LinSol-Kurulum-0.9.160.exe",
+  "sha256": "f15ff9277e97cf87516593d551b1b9a8c26d2b7911b52dce8b559e0aac2f6012",
+  "size": 256368836,
   "notes": "",
   "zorunlu": false,
-  "t": 1793171884214
+  "t": 1793202017988
  },
- "s": "WPBkLbESS1HSqEWpWaabl4bA1N0cUHOWEamkSAV96teH_inQxzKPNC3mc3kd1cDhO6oa-oAksbJTTDUDG33kCg"
+ "s": "GEoSviQKSdm1366il21142kNvG5nkY0TkOc0V4hcfBCmHr9Ye4QW0VqEIfSKz1UuBt0G4b3sqkhBEqEZ0krKAw"
 }
