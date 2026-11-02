@@ -1,13 +1,13 @@
 {
  "d": {
   "k": "guncelleme",
-  "v": "0.9.175",
-  "url": "https://github.com/nakzo95/linsol-surum/releases/download/v0.9.175/LinSol-Kurulum-0.9.175.exe",
-  "sha256": "598ca27ef252910847f0f9601d3d7065d03b3d103f94dd88ad5c6dcbdb5a228b",
-  "size": 415755984,
-  "notes": "3d yazıcı güncellemesi",
+  "v": "0.9.182",
+  "url": "https://github.com/nakzo95/linsol-surum/releases/download/v0.9.182/LinSol-Kurulum-0.9.182.exe",
+  "sha256": "27b40e5366fd7890e116aeff83ceb7b5806ead5555cf8dc5a678f94fb22ad5fd",
+  "size": 415764969,
+  "notes": "",
   "zorunlu": false,
-  "t": 1793634967886
+  "t": 1793647880720
  },
- "s": "flOmumxBfsDHQw37E_iT-kOqPPFiU4HnCySdJTS_oLqt7d2uwJQhj7pT3KvXvVJePFnXCLADBvUStVX29lMaCQ"
+ "s": "xVqbKQcoUF77BGxqFGL0GYR6sB2ZOQzgttu0tiK8ZfIl9sofIqDuClQoTIYy08Ov141IAOmdZDJUwsumxf_qCw"
 }
