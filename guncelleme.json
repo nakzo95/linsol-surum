@@ -1,13 +1,13 @@
 {
  "d": {
   "k": "guncelleme",
-  "v": "0.9.182",
-  "url": "https://github.com/nakzo95/linsol-surum/releases/download/v0.9.182/LinSol-Kurulum-0.9.182.exe",
-  "sha256": "27b40e5366fd7890e116aeff83ceb7b5806ead5555cf8dc5a678f94fb22ad5fd",
-  "size": 415764969,
+  "v": "0.9.183",
+  "url": "https://github.com/nakzo95/linsol-surum/releases/download/v0.9.183/LinSol-Kurulum-0.9.183.exe",
+  "sha256": "7e1aa4a0c27caebc938ac1a13c3a970538b165cc2a0adae97f3e1181e4193872",
+  "size": 415774209,
   "notes": "",
   "zorunlu": false,
-  "t": 1793647880720
+  "t": 1793654209301
  },
- "s": "xVqbKQcoUF77BGxqFGL0GYR6sB2ZOQzgttu0tiK8ZfIl9sofIqDuClQoTIYy08Ov141IAOmdZDJUwsumxf_qCw"
+ "s": "sNngpFwMAYCKAVdAv9FXDIR3DDexqn16Mb7rd1P5RzHjx6jvkkho0XHRPW8Aiv3KJ_GXPAjuJcvtvkUfCWQ_BA"
 }
