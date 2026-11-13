@@ -1,13 +1,13 @@
 {
  "d": {
   "k": "guncelleme",
-  "v": "0.9.200",
-  "url": "https://github.com/nakzo95/linsol-surum/releases/download/v0.9.200/LinSol-Kurulum-0.9.200.exe",
-  "sha256": "2f37f91231ff850d4a74f45fd7e7cab461063d9a8f9bdf7cfd263c00c4fcd328",
-  "size": 423682303,
-  "notes": "Profesöre yeni özellikler geldi, farklı çözünürlükler için düzenleme yapıldı",
-  "zorunlu": true,
-  "t": 1794596357680
+  "v": "0.9.201",
+  "url": "https://github.com/nakzo95/linsol-surum/releases/download/v0.9.201/LinSol-Kurulum-0.9.201.exe",
+  "sha256": "b717e537b190de2c16073e5e6d4fb0c3ac62833e669d91c300f3a18c4351d70b",
+  "size": 423613470,
+  "notes": "",
+  "zorunlu": false,
+  "t": 1794605470389
  },
- "s": "p8cImgJpwETmseeP5T5xHZNFsW-avmWPLdJxTelgkByT7pOmYr-JW3IZhXtrHrRu8fhI_Djad7_hSVKu9L7NCw"
+ "s": "dWq8R2qtEnbfimNhXm8ABVfL7JB3FvE2gp_GEZZsxZJmCm76KSkYkVNB8AHPVQFUEkkIeGPAwk_C4dNwyASHAw"
 }
